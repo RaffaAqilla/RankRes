@@ -1,0 +1,10 @@
+name: "RankRes"
+version: "2.1Patch"
+main: "vb.$rankres.PluginMain"
+api-version: 1.13
+authors: [BabyRes_]
+softdepend: [PlaceholderAPI]
+commands:
+  ranks:
+    description: "Rank list and price"
+permissions:
